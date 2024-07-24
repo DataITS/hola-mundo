@@ -4,7 +4,7 @@
   "description": "Descripción de mi proyecto",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "start": "node index.js",
     "build": "echo \"Build script not defined\""
   },
